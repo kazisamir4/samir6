@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 from requests.structures import CaseInsensitiveDict
 
